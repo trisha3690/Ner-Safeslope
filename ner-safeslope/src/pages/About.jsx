@@ -118,7 +118,7 @@ export default function About() {
         {/* Technology */}
         <section className="mb-20">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
-            <div>
+            {/* <div>
               <span className="text-sm font-bold text-brand-600 uppercase tracking-widest block mb-2">Technology Stack</span>
               <h2 className="text-3xl font-bold text-gray-900 mb-6" style={{fontFamily:'Poppins,sans-serif'}}>How It's Built</h2>
               <div className="space-y-4">
@@ -140,9 +140,9 @@ export default function About() {
                   </div>
                 ))}
               </div>
-            </div>
+            </div> */}
 
-            <div>
+            <div className="lg:col-span-2 max-w-2xl w-full mx-auto">
               <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
                 <h3 className="font-semibold text-gray-900 mb-4">Relevant Partner Agencies</h3>
                 <div className="space-y-2">
