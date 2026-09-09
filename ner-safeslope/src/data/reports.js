@@ -69,7 +69,7 @@ export const initialReports = [
 ];
 
 export const INCIDENT_TYPES = ['Crack Detected', 'Slope Movement', 'Road Block', 'Flash Flood', 'Infrastructure Damage', 'Other'];
-export const ROLES = ['Citizen', 'Field Officer', 'Panchayat Head', 'DDMA Official', 'NGO Worker'];
+export const ROLES = ['Citizen', 'Field Officer', 'Panchayat HeadOfficer', 'DDMA Official', 'NGO Worker'];
 export const LOCATION_OPTIONS = [
   'Guwahati North, Assam',
   'Silchar Hill Zone, Assam',
