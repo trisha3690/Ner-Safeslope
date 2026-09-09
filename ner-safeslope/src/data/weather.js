@@ -14,7 +14,7 @@ export const forecastZones = [
 export const generateForecastData = (baseRainfall, baseRisk) => {
   const times = [
     'Now', '+6h', '+12h', '+18h', '+24h', '+30h',
-    '+36h', '+42h', '+48h', '+54h', '+60h', '+66h', '+72h'
+    '+36h', '+42h', '+48h', '+55h', '+60h', '+66h', '+72h'
   ];
 
   let rainfall = baseRainfall;
