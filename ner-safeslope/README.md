@@ -142,5 +142,15 @@ All data is in `src/data/`:
 - All translations are human-curated samples, not machine-translated
 
 ---
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and test them locally.
+4. Commit your changes with a clear message.
+5. Push your branch to your fork.
+6. Open a Pull Request to the main repository.
 
 CONTRIBUTERS-SURAJ PAL(FRONTEND),SOURA ROY MAHAPATRA(BACKEND)
